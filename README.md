@@ -16,6 +16,9 @@ Les recommendations de sécurité sont classées en deux groupes :
 
 ## Frontend
 
+- [] ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) L'application est accessible via https
+- [] ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) HSTS est mis en place via le header strict-transport-security
+
 
 ## Backend
 
