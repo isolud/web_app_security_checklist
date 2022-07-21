@@ -5,9 +5,10 @@ Objectif : Fournir une liste de recommendations liées à la sécurité des appl
 Cette checklist est décomposée en trois parties : **Frontend**, **Backend** et **Infrastructure**
 
 Les recommendations de sécurité sont classées en deux groupes :
-<span style="color:red">En rouge</span> ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`, les recommendations critiques.
 
-<span style="color:blue">En bleu</span> ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`, les recommendations souhaitables.
+- <span style="color:red">En rouge</span> ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`, les recommendations critiques.
+
+- <span style="color:blue">En bleu</span> ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`, les recommendations souhaitables.
 
 
 ***
